@@ -1,11 +1,6 @@
-- ---------------------------------------------
-- A Senior Head Moderator(+Dev kinda) of the AcentraMC(Dont wanna expose my identity). 😼
-- Kinda a Beginner In Coding 😁
-- Coded Tweaks for Acentra PVP(Custom PVP plugin by acentra)
-- In-Secret
-- ---------------------------------------------
-Play Now At as.acentramc.com / acentramc.com
-- Bedwars
-- PracticePVP
-- Survival
-- etc
+---------------------------------------
+Just an Ultimate Example of Nothingness
+---------------------------------------
+Beginner at java coding
+---------------------------------------
+Server- Acentramc.com
